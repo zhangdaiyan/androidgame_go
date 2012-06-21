@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">欢迎使用</string>
+    <string name="app_name">ChunGo围棋</string>
+    
+    <string name="info">当前第%1$s手，轮到%2$s下</string>
+    <string name="black">黑</string>
+    <string name="white">白</string>
+    
+    <string name="backBtn">后</string>
+    <string name="forwardBtn">前</string>
+    <string name="gotoBtn">Go</string>
+    <string name="returnBtn">返回</string>
+    
+    <string name="save">保存</string>
+    <string name="open">打开</string>
+    <string name="about">关于</string>
+    <string name="set">设置</string>
+    <string name="clear">清空</string>
+    
+    <string name="fileName">请输入要保存的文件名称</string>
+    <string name="aboutInfo">作者 chunquedong.邮箱：chunquedong@163.com</string>
+    <string name="boardSize">棋盘大小</string>
+    
+    <string name="eula_title">用户许可</string>
+    <string name="eula_accept">接受</string>
+    <string name="eula_refuse">拒绝</string>
+    
+</resources>

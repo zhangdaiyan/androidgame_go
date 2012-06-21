@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">welcome</string>
+    <string name="app_name">ChunGo-WeiQi</string>
+    
+    <string name="info">%1$s step,%2$s turn</string>
+    <string name="black">black</string>
+    <string name="white">white</string>
+    
+    <string name="backBtn">back</string>
+    <string name="forwardBtn">next</string>
+    <string name="gotoBtn">Go</string>
+    <string name="returnBtn">Re</string>
+    
+    <string name="save">save</string>
+    <string name="open">open</string>
+    <string name="about">about</string>
+    <string name="set">set</string>
+    <string name="clear">clear</string>
+    
+    <string name="fileName">Please input fileName</string>
+    <string name="aboutInfo">by chunquedong.Email:chunquedong@163.com</string>
+    <string name="boardSize">board size</string>
+    
+    <string name="eula_title">license</string>
+    <string name="eula_accept">accept</string>
+    <string name="eula_refuse">refuse</string>
+    
+</resources>
